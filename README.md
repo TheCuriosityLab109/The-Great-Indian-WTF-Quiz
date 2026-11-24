@@ -44,6 +44,6 @@ Requires Node 20+: `npm test` (no dependency installation needed).
 
 ## Deploy via GitHub Pages
 
-The repository includes a Pages deployment workflow for `main`. The repository's **Settings → Pages** must allow GitHub Actions as its build and deployment source. If Pages is not activated automatically, an administrator must enable it once. Once deployed, the app will be available at a URL like `https://adityasuresh109.github.io/The-Great-Indian-WTF-Quiz/` (this is an expected URL pattern, **not a verified live site**).
+The repository includes a Pages deployment workflow for `main`. The repository's **Settings → Pages** must allow GitHub Actions as its build and deployment source. If Pages is not activated automatically, an administrator must enable it once. Once deployed, the app will be available at a URL like `https://thecuriositylab109.github.io/The-Great-Indian-WTF-Quiz/` (this is an expected URL pattern, **not a verified live site**).
 
 Before game night, test with multiple real phones on different connections and ideally all 25 players. Avoid switching off the host computer or closing its tab during a session.

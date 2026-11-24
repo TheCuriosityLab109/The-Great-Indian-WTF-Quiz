@@ -4,7 +4,7 @@ No ZIP handling or manual code editing is required after the code is committed t
 
 ## Publishing
 
-The `Deploy game to GitHub Pages` workflow builds and publishes the site automatically after updates to `main`. If the workflow reports that Pages is not enabled, visit repository **Settings → Pages → Build and deployment → GitHub Actions** once. The expected URL is `https://adityasuresh109.github.io/The-Great-Indian-WTF-Quiz/` but it is not live until a workflow reports success.
+The `Deploy game to GitHub Pages` workflow builds and publishes the site automatically after updates to `main`. If the workflow reports that Pages is not enabled, visit repository **Settings → Pages → Build and deployment → GitHub Actions** once. The expected URL is `https://thecuriositylab109.github.io/The-Great-Indian-WTF-Quiz/` but it is not live until a workflow reports success.
 
 ## Hosting a game
 
